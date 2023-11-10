@@ -23,7 +23,7 @@ namespace ConsoleUI
         public abstract void DriveAbstract();
         public virtual void DriveVirtual()
         {
-            Console.WriteLine("Virtual from separate vehicle class");
+            Console.WriteLine("This is a virtual vehicle method");
         }
             
 
